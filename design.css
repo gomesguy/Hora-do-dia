@@ -1,0 +1,35 @@
+body{
+    background: rgb(228, 51, 7);
+    font: normal 16pt   Arial; 
+}
+
+header{
+    color: aliceblue;
+    text-align: center; /* centralizar na pagina */
+
+}
+
+section{
+    background: rgb(245, 174, 174);
+    border-radius: 9px;  /* arrebondar as bordas */
+    padding: 15px; /* espaçamento */
+    width: 500px; /* definir largura fixa */
+    margin: auto;  /* centralizar na pagina */
+    box-shadow: 4px 4px 9px rgb(92, 91, 91);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer{
+    color: rgba(31, 31, 31, 0.63);
+    font-style: italic; /* definir formatação, nesse caso itálico */
+    text-align: center; /* centralizar na pagina */
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
